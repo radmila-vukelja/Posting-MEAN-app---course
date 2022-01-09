@@ -1,0 +1,32 @@
+mat-form-field{
+    width: 100%;
+
+}
+
+mat-card {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+    background-color: rgba(136, 83, 123, 0.212);
+}
+
+input {
+    background-color: rgba(136, 83, 123, 0.212);
+    height: 30px;
+}
+
+input[type="file"] {
+    visibility: hidden;
+}
+
+
+.imagePreview {
+    height: 5rem;
+    margin: 1 rem 0;
+}
+
+.imagePreview img {
+    height: 100%;
+}
